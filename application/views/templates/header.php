@@ -64,9 +64,9 @@
         <div class="container">
           <ul class="site-menu js-clone-nav d-none d-md-block">
             <li><a href="<?php echo base_url();?>home">Home</a> </li>
-            <li><a href="<?php echo base_url();?>">Shop</a></li>
+            <li><a href="<?php echo base_url();?>shop">Shop</a></li>
             <li><a href="<?php echo base_url();?>about">About</a> </li>
-            <li><a href="<?php echo base_url();?>">Contact</a></li>
+            <li><a href="<?php echo base_url();?>contact">Contact</a></li>
           </ul>
         </div>
       </nav>
