@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
 $config['base_url'] = 'http://localhost/fpweb-ecommerce-makanan/';
+=======
+$config['base_url'] = 'http://localhost/fpweb_ecommerce-makanan/';
+>>>>>>> cc8843a179efef775bd81a1424e3494d139f6a11
 
 /*
 |--------------------------------------------------------------------------
