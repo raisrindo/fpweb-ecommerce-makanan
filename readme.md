@@ -6,7 +6,7 @@ Nama Kelompok:
 -Tiurmauli Rahel Ernita (105217029)
 -Redho Saputra (105217033)
 
-Tugas ini membuat web yang bertemakan ecommerce makanan
-Nama Web kami adalah MAKANANKITE
-MAKANANKITE menyediakan makanan - makanan khas Jakarta
+Tugas ini membuat web yang bertemakan ecommerce makanan.
+Nama Web kami adalah MAKANANKITE.
+MAKANANKITE menyediakan makanan - makanan khas Jakarta.
 
