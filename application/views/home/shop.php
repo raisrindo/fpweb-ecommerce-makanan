@@ -79,7 +79,7 @@
                     <a href="<?php base_url();?>ketupat"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>ketupat">Ketupat babanci</a></h3>
+                    <h3><a href="<?php base_url();?>ketupat">Ketupat Babanci</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 25.000,00</p>
                   </div>

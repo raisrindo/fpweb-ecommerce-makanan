@@ -1,7 +1,7 @@
 <div class="bg-light py-3">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 mb-0"><a href="<?php base_url();?>home">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Kerak Telor</strong></div>
+          <div class="col-md-12 mb-0"><a href="<?php base_url();?>home">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Gabus Pucung</strong></div>
         </div>
       </div>
     </div>  
@@ -17,7 +17,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
             <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
             
-            <p><strong class="text-primary h4">Rp 15.000,00</strong></p>
+            <p><strong class="text-primary h4">Rp 25.000,00</strong></p>
             
 
 

@@ -72,7 +72,7 @@
                     <img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Kerak Telor</a></h3>
+                    <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
@@ -84,7 +84,7 @@
                     <img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Soto Betawi</a></h3>
+                    <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 30.000,00</p>
                   </div>
@@ -96,7 +96,7 @@
                     <img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Nasi Uduk Betawi</a></h3>
+                    <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 25.000,00</p>
                   </div>
@@ -108,7 +108,7 @@
                     <img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Roti Buaya</a></h3>
+                    <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
@@ -120,7 +120,7 @@
                     <img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="#">Semprong</a></h3>
+                    <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
