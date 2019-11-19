@@ -103,9 +103,9 @@
                     <a href="<?php base_url();?>gadogado"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>gadogado">Makanan X</a></h3>
+                    <h3><a href="<?php base_url();?>gadogado">Gado-Gado</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
@@ -115,9 +115,9 @@
                     <a href="<?php base_url();?>ketoprak"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="s<?php base_url();?>ketoprak">Makanan X</a></h3>
+                    <h3><a href="s<?php base_url();?>ketoprak">Ketoprak</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
@@ -128,9 +128,9 @@
                     <a href="<?php base_url();?>gabuspucung"><img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>gabuspucung">Makanan X</a></h3>
+                    <h3><a href="<?php base_url();?>gabuspucung">Gabus Pucung</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
                   </div>
                 </div>
               </div>
@@ -140,9 +140,9 @@
                     <a href="<?php base_url();?>kuepancong"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>kuepancong">Makanan X</a></h3>
+                    <h3><a href="<?php base_url();?>kuepancong">Kue Pancong</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
                 </div>
               </div>
@@ -152,9 +152,9 @@
                     <a href="<?php base_url();?>semurjengkol"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>semurjengkol">Makanan X</a></h3>
+                    <h3><a href="<?php base_url();?>semurjengkol">Semur Jengkol</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
@@ -165,9 +165,9 @@
                     <a href="<?php base_url();?>taugegoreng"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>taugegoreng">Makanan X</a></h3>
+                    <h3><a href="<?php base_url();?>taugegoreng">Tauge Goreng</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 00,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
