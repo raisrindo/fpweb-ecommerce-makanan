@@ -1,7 +1,7 @@
 <div class="bg-light py-3">
       <div class="container">
         <div class="row">
-          <div class="col-md-12 mb-0"><a href="index.html">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Kerak Telor</strong></div>
+          <div class="col-md-12 mb-0"><a href="<?php base_url();?>home">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Kerak Telor</strong></div>
         </div>
       </div>
     </div>  
@@ -13,7 +13,7 @@
             <img src="<?php base_url();?>assets/images/cloth_1.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-6">
-            <h2 class="text-black">Ketoprak</h2>
+            <h2 class="text-black">Tauge Goreng</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
             <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
             

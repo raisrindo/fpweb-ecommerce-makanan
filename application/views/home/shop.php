@@ -202,7 +202,7 @@
                 </div>
                 <div class="row">
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade" data-aos-delay="">
-                    <a class="block-2-item" href="#">
+                    <a class="block-2-item" href="<?php base_url();?>makananberkuah">
                       <figure class="image">
                         <img src="<?php base_url();?> assets/images/women.jpg" alt="" class="img-fluid">
                       </figure>
@@ -213,7 +213,7 @@
                     </a>
                   </div>
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-                    <a class="block-2-item" href="#">
+                    <a class="block-2-item" href="<?php base_url();?>makanantidakberkuah">
                       <figure class="image">
                         <img src="<?php base_url();?> assets/images/children.jpg" alt="" class="img-fluid">
                       </figure>
@@ -224,7 +224,7 @@
                     </a>
                   </div>
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
-                    <a class="block-2-item" href="#">
+                    <a class="block-2-item" href="<?php base_url();?>makananringan">
                       <figure class="image">
                         <img src="<?php base_url();?> assets/images/men.jpg" alt="" class="img-fluid">
                       </figure>
