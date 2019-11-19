@@ -7,7 +7,7 @@ class Gadogado extends CI_Controller{
 
         $data['judul'] = 'Gado-gado';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/gadogado');
+        $this->load->view('home/makanan/gadogado');
         $this->load->view('templates/footer');
     }
 }

@@ -1,13 +1,13 @@
 <?php
 
 
-class Ketoprak extends CI_Controller{
+class Keraktelor extends CI_Controller{
     public function index(){
 
 
-        $data['judul'] = 'Ketoprak';
+        $data['judul'] = 'Kerak telor';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/makanan/ketoprak');
+        $this->load->view('home/makanan/keraktelor');
         $this->load->view('templates/footer');
     }
 }

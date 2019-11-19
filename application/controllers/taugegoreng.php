@@ -7,7 +7,7 @@ class Taugegoreng extends CI_Controller{
 
         $data['judul'] = 'Tauge Goreng';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/taugegoreng');
+        $this->load->view('home/makanan/taugegoreng');
         $this->load->view('templates/footer');
     }
 }

@@ -7,7 +7,7 @@ class Gabuspucung extends CI_Controller{
 
         $data['judul'] = 'Gabus Pucung';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/gabuspucung');
+        $this->load->view('home/makanan/gabuspucung');
         $this->load->view('templates/footer');
     }
 }
