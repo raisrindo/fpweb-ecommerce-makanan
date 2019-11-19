@@ -12,7 +12,7 @@
           <div class="col-md-6">
             <div class="block-16">
               <figure>
-                <img src="images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
+                <img src="<?php base_url();?> assets/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
                 <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
 
               </figure>
@@ -46,12 +46,15 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_1.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/person_1.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Muhammad Rais Ridho</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
                 <div class="block-38-body">
-                  <p> BELUM !</p>
+                  <p> Berbeda dengan yang lain, rais bukan merupakan lulusan terbaik dikampusnya bahkan bukan berasal
+                      dari lulusan program studi yang berhubungan dengan IT. Dia merupakan mantan ketua bajak laut yang menguasai
+                      seluruh laut Indonesia. Pada akhirnya bertemu dengan timnya lalu kemudian mulai menekuni dunia IT hingga sekarang 
+                      menjadi programmer di MakananKite</p>
                 </div>
               </div>
             </div>
@@ -60,27 +63,14 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_2.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/person_2.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Tiurmauli Rahel Ernita</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
                 <div class="block-38-body">
-                  <p> BELUM ! </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="block-38 text-center">
-              <div class="block-38-img">
-                <div class="block-38-header">
-                  <img src="images/person_3.jpg" alt="Image placeholder" class="mb-4">
-                  <h3 class="block-38-heading h4">Adhitya Lazuardy</h3>
-                  <p class="block-38-subheading">Programmer</p>
-                </div>
-                <div class="block-38-body">
-                  <p> Adhit adalah salah satu programmer profesional yang saat ini merupakan tenaga developer di MakananKite,
-                      selain itu Adhit juga mempunyai banyak bisnis di bidang lain. beliau merupakan lulusan terbaik di Tokyo University.  
+                  <p> Wanita yang biasa di panggil Achel ini ialah satu-satunya programmer wanita di tim MakananKite
+                      yang mana dia hanya menjadi programmer di e-commerce ini saja, berbeda dengan tim nya yang lain yang mempunyai
+                      banyak bisnis lainnya di dalam dan luar negeri. Achel merupakan lulusan dari Oxford University
                   </p>
                 </div>
               </div>
@@ -90,7 +80,24 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="images/person_4.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/person_3.jpg" alt="Image placeholder" class="mb-4">
+                  <h3 class="block-38-heading h4">Adhitya Lazuardi N</h3>
+                  <p class="block-38-subheading">Programmer</p>
+                </div>
+                <div class="block-38-body">
+                  <p> Adhit adalah salah satu programmer profesional yang saat ini merupakan tenaga developer di MakananKite,
+                      selain itu Adhit juga mempunyai banyak bisnis di bidang lain di bidang properti yang merupakan bisnis properti terbesar di Indonesia. 
+                      Beliau merupakan lulusan terbaik di Tokyo University.  
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="block-38 text-center">
+              <div class="block-38-img">
+                <div class="block-38-header">
+                  <img src="<?php base_url();?> assets/images/person_4.jpg" alt="Image placeholder" class="mb-4">
                   <h3 class="block-38-heading h4">Redho Saputra</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
