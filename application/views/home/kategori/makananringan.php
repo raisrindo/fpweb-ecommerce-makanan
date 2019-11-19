@@ -27,10 +27,10 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>satuan"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>kuepancong"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>satuan">Kue Pancong</a></h3>
+                    <h3><a href="<?php base_url();?>kuepancong">Kue Pancong</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
@@ -39,10 +39,10 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>satuan"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>keraktelor"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>satuan">Kerak Telor</a></h3>
+                    <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
@@ -51,10 +51,10 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>satuan"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>semprong"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>satuan">Semprong</a></h3>
+                    <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
@@ -64,10 +64,10 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>satuan"><img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>rotibuaya"><img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>satuan">Roti Buaya</a></h3>
+                    <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
