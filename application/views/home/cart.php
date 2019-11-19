@@ -81,7 +81,7 @@
             <div class="row mb-5">
               
               <div class="col-md-6">
-                <button class="btn btn-outline-primary btn-sm btn-block">Continue Shopping</button>
+                <button class="btn btn-outline-primary btn-sm btn-block" onclick="window.location='<?php base_url();?>shop'">Continue Shopping</button>
               </div>
             </div>
     

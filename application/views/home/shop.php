@@ -181,9 +181,9 @@
               <h3 class="mb-3 h6 text-uppercase text-black d-block">Categories</h3>
 
               <ul class="list-unstyled mb-0">
-                <li class="mb-1"><a href="<?php base_url();?>makananberkuah" class="d-flex"><span>Makanan Berkuah</span> <span class="text-black ml-auto">(3)</span></a></li>
-                <li class="mb-1"><a href="<?php base_url();?>makanantidakberkuah" class="d-flex"><span>Makanan Tidak Berkuah</span> <span class="text-black ml-auto">(3)</span></a></li>
-                <li class="mb-1"><a href="<?php base_url();?>makananringan" class="d-flex"><span>Makanan Ringan</span> <span class="text-black ml-auto">(6)</span></a></li>
+                <li class="mb-1"><a href="<?php base_url();?>makananberkuah" class="d-flex"><span>Makanan Berkuah</span> <span class="text-black ml-auto">(4)</span></a></li>
+                <li class="mb-1"><a href="<?php base_url();?>makanantidakberkuah" class="d-flex"><span>Makanan Tidak Berkuah</span> <span class="text-black ml-auto">(4)</span></a></li>
+                <li class="mb-1"><a href="<?php base_url();?>makananringan" class="d-flex"><span>Makanan Ringan</span> <span class="text-black ml-auto">(4)</span></a></li>
               </ul>
             </div>
 
