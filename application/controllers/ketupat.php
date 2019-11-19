@@ -1,13 +1,13 @@
 <?php
 
 
-class Kuepancong extends CI_Controller{
+class Ketupat extends CI_Controller{
     public function index(){
 
 
-        $data['judul'] = 'Kue Pancong';
+        $data['judul'] = 'Ketupat Babanci';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/makanan/kuepancong');
+        $this->load->view('home/makanan/ketupat');
         $this->load->view('templates/footer');
     }
 }
