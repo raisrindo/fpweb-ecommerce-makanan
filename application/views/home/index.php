@@ -2,11 +2,11 @@
       <div class="container">
         <div class="row align-items-start align-items-md-center justify-content-end">
           <div class="col-md-5 text-center text-md-left pt-5 pt-md-0">
-            <h1 class="mb-2">Nyok Makanan Khas Betawi!</h1>
+            <h1 class="mb-2">Nyok Makan Makanan Khas Betawi!</h1>
             <div class="intro-text text-center text-md-left">
-              <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus at iaculis quam. Integer accumsan tincidunt fringilla. </p>
+              <p class="mb-4">Dimari banyak makanan jakarte yang terkenal dan enak. Dimane lagi ye kan kalo bukan dimari. Nyok langsung pesen lah. </p>
               <p>
-                <a href="shop.html" class="btn btn-sm btn-primary">Shop Now</a>
+                <a href="<?php base_url();?>shop" class="btn btn-sm btn-primary">Shop Now</a>
               </p>
             </div>
           </div>
