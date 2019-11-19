@@ -115,7 +115,7 @@
                     <a href="<?php base_url();?>ketoprak"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="s<?php base_url();?>ketoprak">Ketoprak</a></h3>
+                    <h3><a href="<?php base_url();?>ketoprak">Ketoprak</a></h3>
                     <p class="mb-0">Makan Nyok!</p>
                     <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
