@@ -8,15 +8,15 @@
               </div>
               <div class="col-md-6 col-lg-4">
                 <ul class="list-unstyled">
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">About</a></li>
-                  <li><a href="#">Shop</a></li>
-                  <li><a href="#">Shopping cart</a></li>
+                  <li><a href="<?php base_url();?>home">Home</a></li>
+                  <li><a href="<?php base_url();?>about">About</a></li>
+                  <li><a href="<?php base_url();?>shop">Shop</a></li>
+                  <li><a href="<?php base_url();?>cart">Shopping cart</a></li>
                 </ul>
               </div>
               <div class="col-md-6 col-lg-4">
                 <ul class="list-unstyled">
-                  <li><a href="#">Contact</a></li>
+                  <li><a href="<?php base_url();?>contact">Contact</a></li>
                   <li><a href="#">Login</a></li>
                   <li><a href="#">Ahaa??</a></li>
                 </ul>
@@ -44,9 +44,9 @@
             <div class="block-5 mb-5">
               <h3 class="footer-heading mb-4">Contact Info</h3>
               <ul class="list-unstyled">
-                <li class="address">Jl. Rawa Simprug, Jaksel</li>
-                <li class="phone"><a href="tel://23923929210">+62</a></li>
-                <li class="email">emailaddress@domain.com</li>
+                <li class="address">Jl. Teuku Nyak Arief, RT.7/RW.8, Simprug, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12220</li>
+                <li class="phone"><a href="tel://23923929210">+6287654321</a></li>
+                <li class="email">makanankite@domain.com</li>
               </ul>
             </div>
 
