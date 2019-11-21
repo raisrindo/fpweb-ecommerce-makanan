@@ -33,7 +33,7 @@
             </div>
 
             </div>
-            <p><a href="cart.html" class="buy-now btn btn-sm btn-primary">Add To Cart</a></p>
+            <p><a href="<?php base_url();?>cart" class="buy-now btn btn-sm btn-primary">Add To Cart</a></p>
 
           </div>
         </div>
