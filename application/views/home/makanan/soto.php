@@ -14,8 +14,8 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Soto Betawi</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Soto Betawi merupakan soto yang populer di daerah Jakarta. Daging sapi juga menjadi bahan campuran dalam soto Betawi. Kuah soto Betawi merupakan campuran santan dan susu. Kedua campuran inilah yang membuat rasa soto Betawi begitu khas.</p>
+            <p class="mb-4">Dengan rasanya yang bervariasi dari Daging sapi, dan kuahnya. Cocok dimakan dengan nasi panas. </p>
             
             <p><strong class="text-primary h4">Rp 20.000,00</strong></p>
             
@@ -71,7 +71,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 30.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
                 </div>
               </div>
@@ -83,7 +83,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
@@ -107,7 +107,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
                 </div>
               </div>
