@@ -14,8 +14,10 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Kerak Telor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Kerak telur adalah makanan asli daerah Jakarta dengan bahan-bahan beras ketan putih, telur ayam, 
+             (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan 
+             berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir.</p>
+            <p class="mb-4"></p>
             
             <p><strong class="text-primary h4">Rp 15.000,00</strong></p>
             

@@ -14,8 +14,8 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Gado - Gado</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Gado-gado adalah salah satu makanan khas Betawi yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah dan yang dihaluskan disertai irisan telur dan pada umumnya banyak yang menambahkan kentang rebus yang sudah dihaluskan untuk saus gado gado kentang rebus dimasak bersamaan dengan bumbu kacang kemudian di atasnya ditaburi bawang goreng.</p>
+            <p class="mb-4"> Makanan ini dapat dimakan begitu saja seperti salad dengan bumbu/saus kacang, tetapi juga dapat dimakan beserta nasi putih atau kadang-kadang juga disajikan dengan lontong. Tentunya sangat cocok untuk anda yang ingin mencoba makan makanan ringan namun mengenyangkan.</p>
             
             <p><strong class="text-primary h4">Rp 15.000,00</strong></p>
             
