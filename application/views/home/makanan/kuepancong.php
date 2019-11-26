@@ -14,8 +14,9 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Kue Pancong</h2>
-            <p>Kue pancong adalah salah satu kue yang populer sebagai kuliner khas Betawi. kue ini bentuknya hampir sama dengan kue pukis karena membuatnya menggunakan cetakan yang sama, namun cita rasa dan teksturnya berbeda. Dalam adonan kue ini tidak memakai gula</p>
-            <p class="mb-4"></p>
+            <p>Kue pancong adalah salah satu kue yang populer sebagai kuliner khas Betawi. kue ini bentuknya hampir sama dengan kue pukis karena membuatnya menggunakan cetakan yang sama, 
+               namun cita rasa dan teksturnya berbeda. Dalam adonan kue ini tidak memakai gula</p>
+            <p class="mb-4">Tentunya makanan ini sangat cocok untuk anda yang tidak bisa mengkonsumsi gula terlalu banyak</p>
             
             <p><strong class="text-primary h4">Rp 10.000,00</strong></p>
             

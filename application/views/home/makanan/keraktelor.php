@@ -14,7 +14,7 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Kerak Telor</h2>
-            <p>Kerak telur adalah makanan asli daerah Jakarta dengan bahan-bahan beras ketan putih, telur ayam, 
+            <p>Kerak telor adalah makanan asli daerah Jakarta dengan bahan-bahan beras ketan putih, telur ayam, 
              (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan 
              berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir.</p>
             <p class="mb-4"></p>
