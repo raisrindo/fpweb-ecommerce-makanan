@@ -14,8 +14,8 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Semprong</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Kue semprong adalah makanan kue kering. Kue ini berbentuk selinder atau panjang seperti pipa dengan rasa yang khas dan unik.  rasa kue semprong juga sangat manis dan gurih. Dengan isian cokelat dan green tea</p>
+            <p class="mb-4">Dengan komposisi tepung beras, santan kelapa, telur ayam, garam, wijen, tepung sagu, dan gula halus. Cocok untuk anda yang ingin makan makanan ringan yang renyah dan manis</p>
             
             <p><strong class="text-primary h4">Rp 10.000,00</strong></p>
             
@@ -71,7 +71,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 30.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
                 </div>
               </div>
@@ -83,7 +83,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
@@ -107,7 +107,7 @@
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
                 </div>
               </div>

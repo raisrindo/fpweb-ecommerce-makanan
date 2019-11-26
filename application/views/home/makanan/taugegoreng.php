@@ -14,8 +14,8 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Tauge Goreng</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>oge goreng adalah salah satu makanan khas daerah betawi atau daerah bogor. Makanan ini cukup terkenal sekali karena rasanya yang sangat enak. Dimasak dengan cara direbus.</p>
+            <p class="mb-4">Dengan pelengkap Lontong, Tahu kuning, Mie kuning. Cocok untuk anda yang ingin makan dengan rasa yang sangat betawi</p>
             
             <p><strong class="text-primary h4">Rp 15.000,00</strong></p>
             
@@ -41,7 +41,7 @@
     </div>
 
 
-     <div class="site-section block-3 site-blocks-2 bg-light">
+    <div class="site-section block-3 site-blocks-2 bg-light">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-7 site-section-heading text-center pt-4">
@@ -54,7 +54,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
@@ -66,31 +66,31 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 30.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
@@ -102,12 +102,12 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
-                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
+                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
                   </div>
                 </div>
               </div>
