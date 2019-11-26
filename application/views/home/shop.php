@@ -24,6 +24,8 @@
             </div>
             <div class="row mb-5">
 
+              <!-- ini kode untuk makanan-makanan : -->
+
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
@@ -176,6 +178,9 @@
             </div>
           </div>
 
+
+          <!-- kode html untuk kategori dibawah :-->
+
           <div class="col-md-3 order-1 mb-5 mb-md-0">
             <div class="border p-4 rounded mb-4">
               <h3 class="mb-3 h6 text-uppercase text-black d-block">Categories</h3>
@@ -212,6 +217,8 @@
                       </div>
                     </a>
                   </div>
+
+
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
                     <a class="block-2-item" href="<?php base_url();?>makanantidakberkuah">
                       <figure class="image">
@@ -223,6 +230,8 @@
                       </div>
                     </a>
                   </div>
+
+
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
                     <a class="block-2-item" href="<?php base_url();?>makananringan">
                       <figure class="image">
@@ -234,6 +243,7 @@
                       </div>
                     </a>
                   </div>
+                  
                 </div>
               
             </div>
