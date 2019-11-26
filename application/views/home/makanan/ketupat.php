@@ -16,7 +16,7 @@
             <h2 class="text-black">Ketupat Babanci</h2>
             <p>Ketupat Babanci adalah salah satu kuliner ikonik khas Betawi yang kini mulai langka.
                Kelangkaan ini disebabkan karena bahan dan rempah-rempah untuk membuat sayur ini sudah sulit ditemukan di Jakarta.</p>
-            <p class="mb-4"></p>
+            <p class="mb-4">Namun jangan khawatir, Kami mempunyai penyuplai bahan-bahan tersebut sehingga produk kami selalu memiliki stok serta kualitas yang terjaga</p>
             
             <p><strong class="text-primary h4">Rp 25.000,00</strong></p>
             
