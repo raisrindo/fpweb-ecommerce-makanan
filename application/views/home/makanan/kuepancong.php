@@ -14,8 +14,9 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Kue Pancong</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Kue pancong adalah salah satu kue yang populer sebagai kuliner khas Betawi. kue ini bentuknya hampir sama dengan kue pukis karena membuatnya menggunakan cetakan yang sama, 
+               namun cita rasa dan teksturnya berbeda. Dalam adonan kue ini tidak memakai gula</p>
+            <p class="mb-4">Tentunya makanan ini sangat cocok untuk anda yang tidak bisa mengkonsumsi gula terlalu banyak</p>
             
             <p><strong class="text-primary h4">Rp 10.000,00</strong></p>
             

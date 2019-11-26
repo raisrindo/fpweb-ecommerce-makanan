@@ -14,8 +14,8 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Gabus Pucung</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p> Gabus pucung adalah masakan khas Betawi yang diolah dari bahan baku ikan gabus dengan kuah warna hitam. Gabus pucung adalah gabungan nama dari kata "gabus" dan "pucung". Gabus (ikan gabus) adalah isi dari sayur tersebut, dan pucung atau kluwek adalah pewarna sayur tersebut.</p>
+            <p class="mb-4"> Makanan ini memiliki keunggulan yaitu memiliki beberapa vitamin, bukan hanya pada ikan gabusnya namun terdapat juga vitamin pada keluak/pucungnya. Selain itu keunggulannya ialah tulang ikan gabusnya dimasak dengan cara masak presto, sehingga tulang dari ikan gabus tersebut akan menjadi lebih lunak.</p>
             
             <p><strong class="text-primary h4">Rp 25.000,00</strong></p>
             

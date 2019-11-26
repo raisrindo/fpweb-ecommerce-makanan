@@ -14,8 +14,12 @@
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Ketoprak</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, vitae, explicabo? Incidunt facere, natus soluta dolores iusto! Molestiae expedita veritatis nesciunt doloremque sint asperiores fuga voluptas, distinctio, aperiam, ratione dolore.</p>
-            <p class="mb-4">Ex numquam veritatis debitis minima quo error quam eos dolorum quidem perferendis. Quos repellat dignissimos minus, eveniet nam voluptatibus molestias omnis reiciendis perspiciatis illum hic magni iste, velit aperiam quis.</p>
+            <p>Ketoprak yang disajikan oleh MakananKite disediakan menggunakan ketupat yang komposisi 
+               utamanya adalah tahu, bihun, mentimun, taoge dan bisa juga memakai telur rebus yang dilengkapi dengan saus kacang, kecap manis, dan taburan bawang merah goreng.
+               Dapat pula dihidangkan dengan tambahan kerupuk atau emping melinjo.</p>
+            <p class="mb-4">Tentunya dengan keunggulan-keunggulan yang telah disebutkan, sangatlah menarik untuk para pelanggan 
+                            mencoba menikmati salah saru dari produk unggulan kami ini.
+           </p>
             
             <p><strong class="text-primary h4">Rp 15.000,00</strong></p>
             
