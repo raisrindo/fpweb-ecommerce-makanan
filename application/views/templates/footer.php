@@ -14,29 +14,33 @@
                   <li><a href="<?php base_url();?>cart">Shopping cart</a></li>
                 </ul>
               </div>
+
+              <div class="col-md-6 col-lg-4">
+                <ul class="list-unstyled">
+                  <li><a href="<?php base_url();?>shop">Makanan Berkuah</a></li>
+                  <li><a href="<?php base_url();?>shop">Makanan Tidak Berkuah</a></li>
+                  <li><a href="<?php base_url();?>shop">Makanan Ringan</a></li>
+                </ul>
+              </div>
+
               <div class="col-md-6 col-lg-4">
                 <ul class="list-unstyled">
                   <li><a href="<?php base_url();?>contact">Contact</a></li>
                   <li><a href="#">Login</a></li>
-                  <li><a href="#">Ahaa??</a></li>
+                  <li><a href="#">Search</a></li>
                 </ul>
               </div>
-              <div class="col-md-6 col-lg-4">
-                <ul class="list-unstyled">
-                  <li><a href="#">Ahaa??</a></li>
-                  <li><a href="#">Ahaa??</a></li>
-                  <li><a href="#">Ahaa??</a></li>
-                </ul>
-              </div>
+
+
             </div>
           </div>
 
           <div class="col-md-6 col-lg-3 mb-4 mb-lg-0">
             <h3 class="footer-heading mb-4">Promo</h3>
-            <a href="#" class="block-6">
-              <img src="<?php base_url();?> assets/images/hero_1.jpg" alt="Image placeholder" class="img-fluid rounded mb-4">
-              <h3 class="font-weight-light  mb-0">Nyok Makan!</h3>
-              <p>Promo from November 15 - 30, 2019</p>
+            <a href="<?php base_url();?>shop" class="block-6">
+              <img src="<?php base_url();?> assets/images/a_blog1.jpg" alt="Image placeholder" class="img-fluid rounded mb-4">
+              <h3 class="font-weight-light  mb-0">Nyok Makan! Diskon ampe 90%</h3>
+              <p>Promo from Desember 32 - 34, 2019</p>
             </a>
           </div>
 
@@ -46,7 +50,7 @@
               <ul class="list-unstyled">
                 <li class="address">Jl. Teuku Nyak Arief, RT.7/RW.8, Simprug, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12220</li>
                 <li class="phone"><a href="tel://23923929210">+6287654321</a></li>
-                <li class="email">makanankite@domain.com</li>
+                <li class="email">makanankite@gmail.com</li>
               </ul>
             </div>
 
