@@ -27,7 +27,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>keraktelor"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>keraktelor"><img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
@@ -39,7 +39,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>soto"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>soto"><img src="<?php base_url();?> assets/images/m_soto.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
@@ -51,7 +51,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>nasiuduk"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>nasiuduk"><img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
@@ -64,7 +64,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>rotibuaya"><img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>rotibuaya"><img src="<?php base_url();?> assets/images/m_rotibuaya.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
@@ -76,7 +76,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>ketupat"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>ketupat"><img src="<?php base_url();?> assets/images/m_ketupat.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>ketupat">Ketupat Babanci</a></h3>
@@ -88,7 +88,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>semprong"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>semprong"><img src="<?php base_url();?> assets/images/m_semprong.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
@@ -100,7 +100,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>gadogado"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>gadogado"><img src="<?php base_url();?> assets/images/m_gado.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>gadogado">Gado-Gado</a></h3>
@@ -112,7 +112,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>ketoprak"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>ketoprak"><img src="<?php base_url();?> assets/images/m_ktoprak.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>ketoprak">Ketoprak</a></h3>
@@ -125,7 +125,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>gabuspucung"><img src="<?php base_url();?> assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>gabuspucung"><img src="<?php base_url();?> assets/images/m_gabus.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>gabuspucung">Gabus Pucung</a></h3>
@@ -137,7 +137,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>kuepancong"><img src="<?php base_url();?> assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>kuepancong"><img src="<?php base_url();?> assets/images/m_pancong.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>kuepancong">Kue Pancong</a></h3>
@@ -149,7 +149,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>semurjengkol"><img src="<?php base_url();?> assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>semurjengkol"><img src="<?php base_url();?> assets/images/m_semur.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semurjengkol">Semur Jengkol</a></h3>
@@ -162,7 +162,7 @@
               <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
                 <div class="block-4 text-center border">
                   <figure class="block-4-image">
-                    <a href="<?php base_url();?>taugegoreng"><img src="<?php base_url();?> assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid"></a>
+                    <a href="<?php base_url();?>taugegoreng"><img src="<?php base_url();?> assets/images/m_tauge.jpg" alt="Image makanan" class="img-fluid"></a>
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>taugegoreng">Tauge Goreng</a></h3>
@@ -204,7 +204,7 @@
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade" data-aos-delay="">
                     <a class="block-2-item" href="<?php base_url();?>makananberkuah">
                       <figure class="image">
-                        <img src="<?php base_url();?> assets/images/women.jpg" alt="" class="img-fluid">
+                        <img src="<?php base_url();?> assets/images/c_berkuah.jpg" alt="" class="img-fluid">
                       </figure>
                       <div class="text">
                         <span class="text-uppercase">Makanan</span>
@@ -215,7 +215,7 @@
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
                     <a class="block-2-item" href="<?php base_url();?>makanantidakberkuah">
                       <figure class="image">
-                        <img src="<?php base_url();?> assets/images/children.jpg" alt="" class="img-fluid">
+                        <img src="<?php base_url();?> assets/images/c_tdkberkuah.jpg" alt="" class="img-fluid">
                       </figure>
                       <div class="text">
                         <span class="text-uppercase">Makanan</span>
@@ -226,7 +226,7 @@
                   <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
                     <a class="block-2-item" href="<?php base_url();?>makananringan">
                       <figure class="image">
-                        <img src="<?php base_url();?> assets/images/men.jpg" alt="" class="img-fluid">
+                        <img src="<?php base_url();?> assets/images/c_ringan.jpg" alt="" class="img-fluid">
                       </figure>
                       <div class="text">
                         <span class="text-uppercase">Makanan</span>
