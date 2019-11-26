@@ -12,7 +12,7 @@
           <div class="col-md-6">
             <div class="block-16">
               <figure>
-                <img src="<?php base_url();?> assets/images/blog_1.jpg" alt="Image placeholder" class="img-fluid rounded">
+                <img src="<?php base_url();?> assets/images/a_blog1.jpg" alt="Image about" class="img-fluid rounded">
                 <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
 
               </figure>
@@ -46,31 +46,15 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="<?php base_url();?> assets/images/person_1.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/a_person1.jpg" alt="Image about" class="mb-4">
                   <h3 class="block-38-heading h4">Muhammad Rais Ridho</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
                 <div class="block-38-body">
-                  <p> Berbeda dengan yang lain, rais bukan merupakan lulusan terbaik dikampusnya bahkan bukan berasal
-                      dari lulusan program studi yang berhubungan dengan IT. Dia merupakan mantan ketua bajak laut yang menguasai
-                      seluruh laut Indonesia. Pada akhirnya bertemu dengan timnya lalu kemudian mulai menekuni dunia IT hingga sekarang 
-                      menjadi programmer di MakananKite</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-3">
-            <div class="block-38 text-center">
-              <div class="block-38-img">
-                <div class="block-38-header">
-                  <img src="<?php base_url();?> assets/images/person_2.jpg" alt="Image placeholder" class="mb-4">
-                  <h3 class="block-38-heading h4">Tiurmauli Rahel Ernita</h3>
-                  <p class="block-38-subheading">Programmer</p>
-                </div>
-                <div class="block-38-body">
-                  <p> Wanita yang biasa di panggil Achel ini ialah satu-satunya programmer wanita di tim MakananKite
-                      yang mana dia hanya menjadi programmer di e-commerce ini saja, berbeda dengan tim nya yang lain yang mempunyai
-                      banyak bisnis lainnya di dalam dan luar negeri. Achel merupakan lulusan dari Oxford University
+                  <p> Rais Rindo adalah seorang bajak laut. Dia memiliki impian untuk menjadi Raja Bajak Laut dan menemukan Onepiece.
+                      Dia merupakan lulusan dari jurusan Ilmu Komputer di salah satu kampus terkemuka di dunia.
+                      Karena kerasnya persaingan dalam dunia perompak, maka dia mencari alternatif lain untuk menambah pundi-pundi hartanya, 
+                      yaitu dengan menjadi salahsatu programer pencetus MakananKite.
                   </p>
                 </div>
               </div>
@@ -80,7 +64,24 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="<?php base_url();?> assets/images/person_3.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/a_person2.jpg" alt="Image about" class="mb-4">
+                  <h3 class="block-38-heading h4">Tiurmauli Rahel Ernita</h3>
+                  <p class="block-38-subheading">Programmer</p>
+                </div>
+                <div class="block-38-body">
+                  <p> Wanita yang biasa di panggil Achel ini ialah satu-satunya programmer wanita di tim MakananKite
+                      yang mana dia hanya menjadi programmer di e-commerce ini saja, berbeda dengan tim nya yang lain yang mempunyai
+                      banyak bisnis lainnya di dalam dan luar negeri. Achel merupakan lulusan dari Oxford University.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="block-38 text-center">
+              <div class="block-38-img">
+                <div class="block-38-header">
+                  <img src="<?php base_url();?> assets/images/a_person3.jpg" alt="Image about" class="mb-4">
                   <h3 class="block-38-heading h4">Adhitya Lazuardi N</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
@@ -97,7 +98,7 @@
             <div class="block-38 text-center">
               <div class="block-38-img">
                 <div class="block-38-header">
-                  <img src="<?php base_url();?> assets/images/person_4.jpg" alt="Image placeholder" class="mb-4">
+                  <img src="<?php base_url();?> assets/images/a_person4.jpg" alt="Image about" class="mb-4">
                   <h3 class="block-38-heading h4">Redho Saputra</h3>
                   <p class="block-38-subheading">Programmer</p>
                 </div>
