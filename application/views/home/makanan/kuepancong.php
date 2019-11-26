@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-6">
-            <img src="<?php base_url();?>assets/images/cloth_1.jpg" alt="Image" class="img-fluid">
+            <img src="<?php base_url();?> assets/images/m_pancong.jpg" alt="Image" class="img-fluid">
           </div>
           <div class="col-md-6">
             <h2 class="text-black">Kue Pancong</h2>
@@ -55,7 +55,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
@@ -67,7 +67,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/m_soto.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
@@ -79,7 +79,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_2.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
@@ -91,7 +91,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/cloth_3.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/m_rotibuaya.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
@@ -103,7 +103,7 @@
               <div class="item">
                 <div class="block-4 text-center">
                   <figure class="block-4-image">
-                    <img src="<?php base_url();?>assets/images/shoe_1.jpg" alt="Image placeholder" class="img-fluid">
+                    <img src="<?php base_url();?> assets/images/m_semprong.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
                     <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
