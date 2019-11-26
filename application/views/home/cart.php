@@ -25,7 +25,7 @@
                 <tbody>
                   <tr>
                     <td class="product-thumbnail">
-                      <img src="images/cloth_1.jpg" alt="Image" class="img-fluid">
+                      <img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image" class="img-fluid">
                     </td>
                     <td class="product-name">
                       <h2 class="h5 text-black">Kerak Telor</h2>
@@ -49,7 +49,7 @@
 
                   <tr>
                     <td class="product-thumbnail">
-                      <img src="images/cloth_2.jpg" alt="Image" class="img-fluid">
+                      <img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image" class="img-fluid">
                     </td>
                     <td class="product-name">
                       <h2 class="h5 text-black">Nasi Uduk Betawi</h2>
