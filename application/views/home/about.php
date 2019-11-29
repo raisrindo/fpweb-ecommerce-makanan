@@ -13,7 +13,6 @@
             <div class="block-16">
               <figure>
                 <img src="<?php base_url();?> assets/images/a_blog1.jpg" alt="Image about" class="img-fluid rounded">
-                <a href="https://vimeo.com/channels/staffpicks/93951774" class="play-button popup-vimeo"><span class="ion-md-play"></span></a>
 
               </figure>
             </div>
