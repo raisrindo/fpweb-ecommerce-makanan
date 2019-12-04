@@ -68,13 +68,18 @@
 
 
 
-                  
+
+                  <!-- keranjang belanja -->
+
                   <li>
-                    <a href="<?php base_url();?>cart" class="site-cart">
-                      <span class="icon icon-shopping_cart"></span>
-                      <span class="count">2</span>
-                    </a>
+                      <span class="icon icon-shopping_cart ml-4">
+                        <?php $keranjang = $this->cart->total_items();?>
+                        <?php echo anchor('cart', $keranjang);  ?>
+                      </span>
+
                   </li> 
+
+                  
                   
                   <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a>
                   </li>

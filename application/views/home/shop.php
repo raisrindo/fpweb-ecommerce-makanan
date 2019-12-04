@@ -35,10 +35,12 @@
                       <small><?php echo $brg->kategori ?></small> <br>
                       <span class="badge badge-success mb-3">Rp. <?php echo number_format($brg->harga, 0,',','.' ) ?></span> <br>
                       
-                      <?php  echo anchor('dashboard/tambah_ke_keranjang/'.$brg->id_brg, '<div class="btn btn-sm btn-primary mb-3" >Tambah ke Keranjang</div>')   ?>
+
+                      <?php  echo anchor('shop/tambah_ke_keranjang/'.$brg->id_brg, '<div class="btn btn-sm btn-primary mb-3" >Tambah ke Keranjang</div>')   ?>
 
 
-                       <?php  echo anchor('dashboard/detail/'.$brg->id_brg, '<div class="btn btn-xs btn-success" >Detail</div>')   ?>
+                       <?php  echo anchor('shop/detail/'.$brg->id_brg, '<div class="btn btn-xs btn-success" >Detail</div>')   ?>
+
 
                      
                     </div>
