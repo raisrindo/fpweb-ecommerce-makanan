@@ -18,6 +18,17 @@
     <link rel="stylesheet" href="<?php base_url();?> assets/css/aos.css">
 
     <link rel="stylesheet" href="<?php base_url();?> assets/css/style.css">
+
+
+    <!-- login -->
+     <!-- Custom fonts for this template-->
+  <link href="<?php base_url();?>assets2/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template-->
+  <link href="<?php base_url();?>assets2/css/sb-admin-2.min.css" rel="stylesheet">
+
+    
     
   </head>
   <body>
@@ -43,8 +54,28 @@
 
             <div class="col-6 col-md-4 order-3 order-md-3 text-right">
               <div class="site-top-icons">
-                <ul>
-                  <li><a href="#"><span class="icon icon-person"></span></a></li>
+
+
+                <ul >
+
+
+                   <!-- login -->
+
+                   <?php  if ($this->session->userdata('username')){ ?>
+                        <li>
+                          <div>selamat datang <?php echo $this->session->userdata('username') ?> ! </div>
+                        </li>
+                        <li class="ml-2">
+                          <?php echo anchor('auth/logout', 'Logout') ?>
+                        </li>
+                        <?php } else {?>
+                        <li class="ml-2">
+                          <?php echo anchor('auth/login', 'Login')  ?>
+                        </li>
+                    <?php } ?>
+
+
+
                   
                   <li>
                     <a href="<?php base_url();?>cart" class="site-cart">
@@ -52,8 +83,17 @@
                       <span class="count">2</span>
                     </a>
                   </li> 
-                  <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a></li>
+                  
+                  <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a>
+                  </li>
+
+
                 </ul>
+
+                
+              
+
+
               </div> 
             </div>
 
