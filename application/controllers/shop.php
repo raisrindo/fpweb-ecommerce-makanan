@@ -6,6 +6,7 @@ class Shop extends CI_Controller{
 
 
         $data['barang'] = $this->model_barang->tampil_data()->result();
+
         $this->load->view('templates/header');
         $this->load->view('home/shop' , $data);
         $this->load->view('templates/footer');

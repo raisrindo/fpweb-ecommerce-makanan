@@ -39,7 +39,6 @@
 
 
                        <?php  echo anchor('shop/detail/'.$brg->id_brg, '<div class="btn btn-xs btn-success" >Detail</div>')   ?>
-
                      
                     </div>
                   </div>
