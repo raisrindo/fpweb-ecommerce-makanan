@@ -13,166 +13,44 @@
           <div class="col-md-9 order-2">
 
             <div class="row">
-              <div class="col-md-12 mb-5">
+              <div class="col-md-12">
                 <div class="float-md-left mb-4"><h2 class="text-black h5">Shop All</h2></div>
-                <div class="d-flex">
-                  <div class="dropdown mr-1 ml-md-auto">
-                  </div>
-                 
-                </div>
+                
               </div>
             </div>
             <div class="row mb-5">
 
               <!-- ini kode untuk makanan-makanan : -->
 
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>keraktelor"><img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
+
+
+              <!-- barang : -->
+              <div class="row text-center mt-4">
+                <?php foreach ($barang as $brg) : ?>
+
+                  <div class="card ml-3 mb-3" style="width: 17rem;">
+                    <img src="<?php echo base_url().'/uploads/'.$brg->gambar?>" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title mb-1"><?php echo $brg->nama_brg ?></h5>
+                      <small><?php echo $brg->kategori ?></small> <br>
+                      <span class="badge badge-success mb-3">Rp. <?php echo number_format($brg->harga, 0,',','.' ) ?></span> <br>
+                      
+                      <?php  echo anchor('shop/tambah_ke_keranjang/'.$brg->id_brg, '<div class="btn btn-sm btn-primary mb-3" >Tambah ke Keranjang</div>')   ?>
+
+
+                       <?php  echo anchor('shop/detail/'.$brg->id_brg, '<div class="btn btn-xs btn-success" >Detail</div>')   ?>
+
+                     
+                    </div>
                   </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>soto"><img src="<?php base_url();?> assets/images/m_soto.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>nasiuduk"><img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
-                  </div>
-                </div>
+
+                <?php endforeach; ?>
               </div>
 
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>rotibuaya"><img src="<?php base_url();?> assets/images/m_rotibuaya.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 20.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>ketupat"><img src="<?php base_url();?> assets/images/m_ketupat.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>ketupat">Ketupat Babanci</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>semprong"><img src="<?php base_url();?> assets/images/m_semprong.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>gadogado"><img src="<?php base_url();?> assets/images/m_gado.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>gadogado">Gado-Gado</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>ketoprak"><img src="<?php base_url();?> assets/images/m_ktoprak.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>ketoprak">Ketoprak</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
-                  </div>
-                </div>
-              </div>
+              
 
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>gabuspucung"><img src="<?php base_url();?> assets/images/m_gabus.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>gabuspucung">Gabus Pucung</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 25.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>kuepancong"><img src="<?php base_url();?> assets/images/m_pancong.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>kuepancong">Kue Pancong</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 10.000,00</p>
-                  </div>
-                </div>
-              </div>
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>semurjengkol"><img src="<?php base_url();?> assets/images/m_semur.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>semurjengkol">Semur Jengkol</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
-                  </div>
-                </div>
-              </div>
 
-              <div class="col-sm-6 col-lg-4 mb-4" data-aos="fade-up">
-                <div class="block-4 text-center border">
-                  <figure class="block-4-image">
-                    <a href="<?php base_url();?>taugegoreng"><img src="<?php base_url();?> assets/images/m_tauge.jpg" alt="Image makanan" class="img-fluid"></a>
-                  </figure>
-                  <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>taugegoreng">Tauge Goreng</a></h3>
-                    <p class="mb-0">Makan Nyok!</p>
-                    <p class="text-primary font-weight-bold">Rp 15.000,00</p>
-                  </div>
-                </div>
-              </div>
+
 
 
             </div>

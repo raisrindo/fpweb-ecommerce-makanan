@@ -11,69 +11,56 @@
         <div class="row mb-5">
           <form class="col-md-12" method="post">
             <div class="site-blocks-table">
+
               <table class="table table-bordered">
+
                 <thead>
                   <tr>
-                    <th class="product-thumbnail">Image</th>
-                    <th class="product-name">Product</th>
-                    <th class="product-price">Price</th>
-                    <th class="product-quantity">Quantity</th>
-                    <th class="product-total">Total</th>
-                    <th class="product-remove">Remove</th>
+                    <th class="product-thumbnail">Nomor</th>
+                    <th class="product-name">Makanan</th>
+                    <th class="product-price">Harga Satuan</th>
+                    <th class="product-quantity">Jumlah Pesanan</th>
+                    <th class="product-total">Sub-Total</th>
+                    <th class="product-remove">Hapus</th>
                   </tr>
                 </thead>
+
+
+
                 <tbody>
-                  <tr>
-                    <td class="product-thumbnail">
-                      <img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image" class="img-fluid">
-                    </td>
-                    <td class="product-name">
-                      <h2 class="h5 text-black">Kerak Telor</h2>
-                    </td>
-                    <td>Rp 15.000,00</td>
-                    <td>
-                      <div class="input-group mb-3" style="max-width: 120px;">
-                        <div class="input-group-prepend">
-                          <button class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
-                        </div>
-                        <input type="text" class="form-control text-center" value="1" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1">
-                        <div class="input-group-append">
-                          <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
-                        </div>
-                      </div>
 
-                    </td>
-                    <td>Rp 15.000,00</td>
-                    <td><a href="#" class="btn btn-primary btn-sm">X</a></td>
-                  </tr>
 
-                  <tr>
-                    <td class="product-thumbnail">
-                      <img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image" class="img-fluid">
-                    </td>
-                    <td class="product-name">
-                      <h2 class="h5 text-black">Nasi Uduk Betawi</h2>
-                    </td>
-                    <td>Rp 25.000,00</td>
-                    <td>
-                      <div class="input-group mb-3" style="max-width: 120px;">
-                        <div class="input-group-prepend">
-                          <button class="btn btn-outline-primary js-btn-minus" type="button">&minus;</button>
-                        </div>
-                        <input type="text" class="form-control text-center" value="1" placeholder="" aria-label="Example text with button addon" aria-describedby="button-addon1">
-                        <div class="input-group-append">
-                          <button class="btn btn-outline-primary js-btn-plus" type="button">&plus;</button>
-                        </div>
-                      </div>
 
-                    </td>
-                    <td>Rp 25.000,00</td>
-                    <td><a href="#" class="btn btn-primary btn-sm">X</a></td>
-                  </tr>
+                  <?php 
+                  $no=1;
+                  foreach ($this->cart->contents() as $items) :?>
+
+                    <tr>
+                      <td><?php echo $no++ ?></td>
+                      <td><h5><?php echo $items['name'] ?></h5></td>
+                      <td align="right" > Rp. <?php echo number_format($items['price'], 0,',','.' ) ?></td>
+                      <td><?php echo $items['qty'] ?></td>
+                      <td align="right" > Rp. <?php echo number_format($items['subtotal'], 0,',','.' ); ?> </td>
+                      <td><?php $id = $items['rowid']; ?><a href="<?php echo base_url("cart/hapus_keranjang/$id") ?>" class="btn btn-primary btn-xs">X</a></td>
+                    </tr>
+
+                  
+                  <?php endforeach; ?>  
+ 
+
                 </tbody>
+
+
               </table>
+
+
+
             </div>
+
+
           </form>
+
+
         </div>
 
         <div class="row">
@@ -92,17 +79,17 @@
               <div class="col-md-7">
                 <div class="row">
                   <div class="col-md-12 text-right border-bottom mb-5">
-                    <h3 class="text-black h4 text-uppercase">Cart Totals</h3>
+                    <h3 class="text-black h4 text-uppercase">Total Belanja</h3>
                   </div>
                 </div>
              
                 
                 <div class="row mb-5">
                   <div class="col-md-6">
-                    <span class="text-black">Subtotal</span>
+                    <span class="text-black">Sub-Total</span>
                   </div>
                   <div class="col-md-6 text-right">
-                    <strong class="text-black">Rp 40.000,00</strong>
+                    <strong class="text-black">Rp. <?php echo number_format($this->cart->total(), 0,',','.' ) ?></strong>
                   </div>
                 </div>
 
@@ -114,7 +101,7 @@
                     <span class="text-black">Total</span>
                   </div>
                   <div class="col-md-6 text-right">
-                    <strong class="text-black">Rp 40.000,00</strong>
+                    <strong class="text-black">Rp. <?php echo number_format($this->cart->total(), 0,',','.' ) ?></strong>
                   </div>
                 </div>
 
