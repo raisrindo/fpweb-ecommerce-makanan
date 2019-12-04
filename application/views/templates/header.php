@@ -18,6 +18,8 @@
     <link rel="stylesheet" href="<?php base_url();?> assets/css/aos.css">
 
     <link rel="stylesheet" href="<?php base_url();?> assets/css/style.css">
+
+
     
   </head>
   <body>
@@ -43,8 +45,28 @@
 
             <div class="col-6 col-md-4 order-3 order-md-3 text-right">
               <div class="site-top-icons">
-                <ul>
-                  <li><a href="#"><span class="icon icon-person"></span></a></li>
+
+
+                <ul >
+
+
+                   <!-- login -->
+
+                   <?php  if ($this->session->userdata('username')){ ?>
+                        <li>
+                          <div>selamat datang <?php echo $this->session->userdata('username') ?> ! </div>
+                        </li>
+                        <li class="ml-2">
+                          <?php echo anchor('auth/logout', 'Logout') ?>
+                        </li>
+                        <?php } else {?>
+                        <li class="ml-2">
+                          <?php echo anchor('auth/login', 'Login')  ?>
+                        </li>
+                    <?php } ?>
+
+
+
                   
                   <li>
                     <a href="<?php base_url();?>cart" class="site-cart">
@@ -52,8 +74,17 @@
                       <span class="count">2</span>
                     </a>
                   </li> 
-                  <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a></li>
+                  
+                  <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a>
+                  </li>
+
+
                 </ul>
+
+                
+              
+
+
               </div> 
             </div>
 
