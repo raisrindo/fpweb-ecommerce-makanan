@@ -9,7 +9,6 @@ class Shop extends CI_Controller{
 
         $this->load->view('templates/header');
         $this->load->view('home/shop' , $data);
-
         $this->load->view('templates/footer');
     }
 
