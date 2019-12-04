@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="<?php base_url();?> assets/css/style.css">
 
 
+
     
   </head>
   <body>
@@ -67,7 +68,9 @@
 
 
 
+
                   <!-- keranjang belanja -->
+
                   <li>
                       <span class="icon icon-shopping_cart ml-4">
                         <?php $keranjang = $this->cart->total_items();?>
@@ -76,9 +79,7 @@
 
                   </li> 
 
-
-
-
+                  
                   
                   <li class="d-inline-block d-md-none ml-md-0"><a href="#" class="site-menu-toggle js-menu-toggle"><span class="icon-menu"></span></a>
                   </li>
