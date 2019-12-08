@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mukta:300,400,700"> 
-    <link rel="stylesheet" href=" <?php base_url();?> assets/fonts/icomoon/style.css">
+    <link rel="stylesheet" href=" <?php echo base_url();?>assets/fonts/icomoon/style.css">
 
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/jquery-ui.css">
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.theme.default.min.css">
 
 
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/aos.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/aos.css">
 
-    <link rel="stylesheet" href="<?php base_url();?> assets/css/style.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
 
 
   </head>
@@ -32,7 +32,7 @@
             <div class="col-6 col-md-4 order-2 order-md-1 site-search-icon text-left">
               <form action="" class="site-block-top-search">
                 <span class="icon icon-search2"></span>
-                <input type="text" class="form-control border-0" placeholder="Search">
+                <input type="text" class="form-control border-0" placeholder="Search" >
               </form>
             </div>
 

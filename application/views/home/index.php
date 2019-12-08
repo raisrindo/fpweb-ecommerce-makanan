@@ -20,7 +20,7 @@
       <div class="container">
         <div class="row">
           <div class="col-sm-6 col-md-6 col-lg-4 mb-4 mb-lg-0" data-aos="fade" data-aos-delay="">
-            <a class="block-2-item" href="<?php base_url();?>makananberkuah">
+            <a class="block-2-item" href="<?php echo base_url('kategori/makanan_berkuah') ?>">
               <figure class="image">
                 <img src="<?php base_url();?> assets/images/c_berkuah.jpg" alt="Image makanan" class="img-fluid">
               </figure>
@@ -31,7 +31,7 @@
             </a>
           </div>
           <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="100">
-            <a class="block-2-item" href="<?php base_url();?>makanantidakberkuah">
+            <a class="block-2-item" href="<?php echo base_url('kategori/makanan_tberkuah') ?>">
               <figure class="image">
                 <img src="<?php base_url();?> assets/images/c_tdkberkuah.jpg" alt="Image makanan" class="img-fluid">
               </figure>
@@ -42,7 +42,7 @@
             </a>
           </div>
           <div class="col-sm-6 col-md-6 col-lg-4 mb-5 mb-lg-0" data-aos="fade" data-aos-delay="200">
-            <a class="block-2-item" href="<?php base_url();?>makananringan">
+            <a class="block-2-item" href="<?php echo base_url('kategori/makanan_ringan') ?>">
               <figure class="image">
                 <img src="<?php base_url();?> assets/images/c_ringan.jpg" alt="Image makanan" class="img-fluid">
               </figure>
@@ -72,7 +72,7 @@
                     <img src="<?php base_url();?> assets/images/m_keraktelor.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>keraktelor">Kerak Telor</a></h3>
+                    <h3><a href="<?php base_url();?>shop">Kerak Telor</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 15.000,00</p>
                   </div>
@@ -84,7 +84,7 @@
                     <img src="<?php base_url();?> assets/images/m_soto.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>soto">Soto Betawi</a></h3>
+                    <h3><a href="<?php base_url();?>shop">Soto Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 30.000,00</p>
                   </div>
@@ -96,7 +96,7 @@
                     <img src="<?php base_url();?> assets/images/m_nasiuduk.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>nasiuduk">Nasi Uduk Betawi</a></h3>
+                    <h3><a href="<?php base_url();?>shop">Nasi Uduk Betawi</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 25.000,00</p>
                   </div>
@@ -108,7 +108,7 @@
                     <img src="<?php base_url();?> assets/images/m_rotibuaya.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>rotibuaya">Roti Buaya</a></h3>
+                    <h3><a href="<?php base_url();?>shop">Roti Buaya</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
@@ -120,7 +120,7 @@
                     <img src="<?php base_url();?> assets/images/m_semprong.jpg" alt="Image makanan" class="img-fluid">
                   </figure>
                   <div class="block-4-text p-4">
-                    <h3><a href="<?php base_url();?>semprong">Semprong</a></h3>
+                    <h3><a href="<?php base_url();?>shop">Semprong</a></h3>
                     <p class="mb-0">Nyok Makan!</p>
                     <p class="text-primary font-weight-bold">Rp 20.000,00</p>
                   </div>
