@@ -95,8 +95,32 @@
                 <div class="p-3 p-lg-5 border">
 
 
+                  <table class="table ">
 
+                                     
+
+                    <tbody>
+                      
+
+                    <?php 
+                  
+                  foreach ($this->cart->contents() as $items) :?>
+
+                    <tr>
+                      <td><?php echo $items['qty'] ?> Bungkus</td>
+                      <td><h5><?php echo $items['name'] ?></h5></td>                    
+                      <td align="right" > Harga : Rp. <?php echo number_format($items['subtotal'], 0,',','.' ); ?> </td>
+                      
+                    </tr>
+
+                  
+                  <?php endforeach; ?>  
+ 
         
+                    </tbody>
+
+
+                  </table>
                
                   <?php 
                   $grand_total = 0;

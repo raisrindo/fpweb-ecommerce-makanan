@@ -33,7 +33,7 @@
 
                     </div>
                     <div class="form-group">
-                      <input type="text" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
+                      <input type="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="Password" name="password">
                        <!-- form validation -->
                       <?php echo form_error('password' , '<div class="text-danger small ml-2" >','</div>'); ?>
 

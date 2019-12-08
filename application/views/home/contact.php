@@ -15,7 +15,7 @@
           </div>
           <div class="col-md-7">
 
-            <form action="#" method="post">
+              <form action="<?php base_url()?>contact/send" method="post">
               
               <div class="p-3 p-lg-5 border">
                 <div class="form-group row">
@@ -54,7 +54,13 @@
                 </div>
               </div>
             </form>
+
+
+
           </div>
+
+
+
           <div class="col-md-5 ml-auto">
             <div class="p-4 border mb-3">
               <span class="d-block text-primary h6 text-uppercase">Jakarta Selatan</span>
